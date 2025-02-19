@@ -162,3 +162,9 @@ Faster way to get to the project (Ubuntu)
 ## Always refer to the MAIN branch
 
     Newer README.md documentation will only be updated on the main branch, sub-branches will not be pulled.
+
+## Free videos
+
+>
+>[Tutorials and walkthroughs for software developers, programmers, and engineer by Corey Schafer](https://www.youtube.com/@coreyms)
+>
