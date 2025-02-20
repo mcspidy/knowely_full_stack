@@ -82,6 +82,11 @@ Basic Steps for [How to install Pyenv in Ubuntu 22.04](https://itslinuxfoss.com/
 
 [MarkdownCanDo](https://www.markdowncando.com/reference/cheatsheet/)
 
+For better image clarity in Markdown files, image formatting is as follows:  
+```html
+<img src="<image_url>" alt="<Alt Text>" style="width:900px;height:auto;">
+```
+
 ### Install Anaconda (if necessary/desired)
 
 [Anaconda](https://www.anaconda.com)
